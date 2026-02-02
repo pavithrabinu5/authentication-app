@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Authentication App</string>
+    <string name="welcome_back">WELCOME BACK!</string>
+    <string name="enter_username">Enter your Username</string>
+    <string name="enter_password">Enter your Password</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="login">Login</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="create_account">Create Account</string>
+    <string name="enter_full_name">Enter your full name</string>
+    <string name="name">Name</string>
+    <string name="select_gender">Select your gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="non_binary">Non-binary</string>
+    <string name="other">Other</string>
+    <string name="enter_year_of_birth">Enter Year of Birth</string>
+    <string name="enter_year">Enter year</string>
+    <string name="enter_username_label">Enter Username</string>
+    <string name="reenter_password">Re-enter password</string>
+    <string name="register">REGISTER</string>
+    <string name="clear_form">Clear Form</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="logout">Logout</string>
+    <string name="your_details">Your details are listed below</string>
+    <string name="full_name">Full Name:</string>
+    <string name="username_label">Username:</string>
+    <string name="gender_label">Gender:</string>
+    <string name="year_of_birth">Year of Birth:</string>
+    <string name="registration_successful">Registration successfully done! You can now login to the system.</string>
+
+    <!-- New strings for RegisterActivity -->
+    <string name="fill_details">Fill in the details below</string>
+    <string name="specify_gender">Please specify your gender</string>
+    <string name="toggle_password_visibility">Toggle password visibility</string>
+</resources>
